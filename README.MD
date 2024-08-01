@@ -4,3 +4,4 @@
 4 - git commit -m "Digite aqui oque foi modificado até o momento" | faz o commit dos arquivos da staging area
 5 - Criar o respositorio no github
 6 - git remote add origin https://github.com/sasantos/AcademyInstagram.git | Envia os arquivos para o repositorio academyInstagram
+7 - git push -u origin main
