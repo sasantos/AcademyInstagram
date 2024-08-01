@@ -14,7 +14,7 @@ Fazendo com o respositorio no github já criado, só enviar os arquivos local pr
 1 - git status | checa o status dos arquivos
 2 - git add . | add os arquivos para a staging area
 3 - git commit -m "Digite aqui oque foi modificado até o momento" | faz o commit dos arquivos da staging area
-4 - git push -u origin main
+4 - git push
 
 Sincronizar dados da nuvem para o repositorio local
 
